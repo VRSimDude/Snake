@@ -1,0 +1,5 @@
+# Visual Studio user specific files
+.vs/
+
+# binary and intermediate files
+.bin/
