@@ -3,8 +3,8 @@
 
 <!-- Screenshots -->
 <p align="center">
-    <img src="/Screenshot/screenshot_1.jpg?raw=true" width="320" height="180" />
-	<img src="/Screenshot/screenshot_2.jpg?raw=true" width="320" height="180" />
+    <img src="/Screenshot/screenshot_1.jpg?raw=true" />
+	<img src="/Screenshot/screenshot_2.jpg?raw=true" />
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -106,7 +106,7 @@ Distributed under the MIT License License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-mail: [contact@marcfriedrich.com](mailto:contact@marcfriedrich.com)
-project link: [https://github.com/VRSimDude/Snake](https://github.com/VRSimDude/Snake)<br>
+mail: [contact@marcfriedrich.com](mailto:contact@marcfriedrich.com)<br>
+project link: [https://github.com/VRSimDude/Snake](https://github.com/VRSimDude/Snake)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
